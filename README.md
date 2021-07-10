@@ -45,3 +45,5 @@ DB_URI={mongodb uri}
 SESSION_SECRET_CODE={codigo secreto sesion}
 DB_COLLECTION_SESSION_NAME={nombre de la coleccion para sesiones}
 ```
+
+Ahora solo queda probarlo con [POSTMAN](https://www.postman.com), para hacer peticiones HTTP REST sin necesidad de desarrollar un cliente.
