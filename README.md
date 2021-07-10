@@ -12,8 +12,9 @@ _El proyecto es una simple autenticacion manejando sesiones_
 
 ## Instalación 🔧
 
-_Las librerias que utilizaremos están indicadas en el package.json, asi que solo debes ejecutar el comando para crear la carpeta node_modules con sus dependecias_
+_Las librerias que utilizaremos están indicadas en el package.json, asi que solo debes ejecutar el comando para instalar la carpeta node_modules con sus dependecias_
 
+Las dependencias de desarrollo y de proyecto:
 ```
 "devDependencies": {
     "nodemon": "^2.0.7"
@@ -28,8 +29,7 @@ _Las librerias que utilizaremos están indicadas en el package.json, asi que sol
     "mongoose": "^5.12.13"
   }
 ```
-y luego..
-
+Las instalamos con el comando:
 ```
 npm install
 ```
