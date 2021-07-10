@@ -1,4 +1,4 @@
-# Basic Authentication with Sessions
+# Basica autenticacion con sesiones
 
 _El proyecto es una simple autenticacion manejando sesiones_
 
